@@ -6,8 +6,21 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<!-- {% include base_path %}
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+# [Download CV](https://abinnquist.github.io/files/abinnquist_CV_2024.pdf)
 
-{% include base_path %}
+<object data="https://abinnquist.github.io/files/abinnquist_CV_2024.pdf" type="application/pdf" style="width:100%; height:100%"></object>
+
+<!-- {% include base_path %}
+
 
 Education
 ======
